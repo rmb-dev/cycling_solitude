@@ -1,6 +1,6 @@
 ## cycling_solitude
 
-Personal cycling blog.
+Personal cycling blog ( https://rmb-dev.github.io/cycling_solitude/ )
 
 Project in progress...
 
