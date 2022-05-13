@@ -193,13 +193,13 @@ img {
 }
 
 .home__title {
-  top: 25%;
+  top: 30%;
   font-size: var(--biggest-font-size);
   z-index: var(--z-normal);
 }
 
 .home__subtitle {
-  top: 35%;
+  top: 45%;
   font-size: var(--h2-font-size);
   font-weight: bold;
   z-index: var(--z-tooltip);
@@ -256,7 +256,7 @@ img {
 }
 
 .logo {
-  bottom: 0.5rem;
+  bottom: 1rem;
   max-height: 100px;
 }
 
